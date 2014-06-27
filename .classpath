@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/model.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/gson-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/httpclient-4.3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/httpcore-4.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/httpmime-4.3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/ormlite-core-4.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/workspace/travelkeeper/libs/ormlite-jdbc-4.43.jar"/>
+	<classpathentry kind="lib" path="D:/Android/workspace/travelkeeper/libs/snakeyaml-android-1.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Android/workspace/travelkeeper/libs/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
